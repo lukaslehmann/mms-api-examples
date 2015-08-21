@@ -52,7 +52,7 @@
             "name": "blue_0",
             "processType": "mongod",
             "version": "3.0.1",
-            "authSchemaVersion": 3
+            "authSchemaVersion": 5
         },
         {
             "args2_6": {
@@ -78,7 +78,7 @@
             "name": "blue_1",
             "processType": "mongod",
             "version": "3.0.1",
-            "authSchemaVersion": 3
+            "authSchemaVersion": 5
         },
         {
             "args2_6": {
@@ -104,7 +104,7 @@
             "name": "blue_2",
             "processType": "mongod",
             "version": "3.0.1",
-            "authSchemaVersion": 3
+            "authSchemaVersion": 5
         }
     ],
     "replicaSets": [
